@@ -1,0 +1,3 @@
+streamlit         # For the UI
+requests          # For making HTTP requests to the AI API
+python-dotenv     # For loading API keys from .env

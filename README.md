@@ -1,4 +1,4 @@
-Here you go — your **ready-to-copy README.md**:
+
 
 ---
 
